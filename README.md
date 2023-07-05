@@ -1,6 +1,6 @@
-# Web Reader
+# Web Pictures Reader
 
-Web Reader is a simple web application that allows you to read a folder of image on one tab of your browser. It is particularly useful to view a lot of .webp image as it is not supported by classic apps such as Windows Photos.
+Web Pictures Reader is a simple web application that allows you to read a folder of images on one tab of your browser. It is particularly useful to view a lot of .webp images, as it is not supported by classic apps such as Windows Photos.
 
 ## Installation and usage on Windows
 
@@ -24,11 +24,11 @@ npm run dev
 
 You can access the front-end on http://127.0.0.1:5173/
 
-To load images from a local folder, simply click the repository button on upper right and select it. You can navigate with the arrow buttons or the keyboard arrows.
+To load images from a local folder, simply click the repository button on the upper right and select it. You can navigate with the arrow buttons or the keyboard arrows.
 
 ### Server (PoC)
 
-To run the server, open an other terminal and write the following :
+To run the server, open another terminal and write the following :
 
 ```bash
 cd .\server\

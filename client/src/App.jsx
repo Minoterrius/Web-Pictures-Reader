@@ -4,7 +4,7 @@ import Navbar from "./Navbar";
 export default function App() {
   const [images, setImages] = useState();
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [filesFromBackend, setFilesFromBackend] = useState(true); // Different type of display
+  const [filesFromBackend, setFilesFromBackend] = useState(true); // Different type of src attribute according to front-end or back-end
   const [docTitle, setDocTitle] = useState("Image Viewer");
 
   // Image displayer

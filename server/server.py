@@ -10,7 +10,7 @@ from PIL import Image
 app = Flask(__name__)
 cors = CORS(app, ressources={r"/*": {"origins": "http://localhost:3000"}})
 
-default_path = 'C:\Programmation\Web\Web Reader\client\src\images-example'
+default_path = './images-example'
 
 @app.route('/')
 def index():
