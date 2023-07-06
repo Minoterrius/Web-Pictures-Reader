@@ -24,7 +24,7 @@ npm run dev
 
 You can access the front-end on http://127.0.0.1:5173/
 
-To load images from a local folder, simply click the repository button on the upper right and select it. You can navigate with the arrow buttons or the keyboard arrows.
+To load images from a local folder, simply click the repository button on the upper left and select it. You can navigate with the arrow buttons or the keyboard arrows.
 
 ### Server (PoC)
 
